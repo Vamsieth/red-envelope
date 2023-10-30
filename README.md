@@ -1,13 +1,14 @@
 <p align="center">
-  <a href="https://unfold-2023-dev-b64b.vercel.app">
-    <img alt = "Lifafa Logo" width="250" src = "./src/assets/lifafa.png">
-  </a>
+
+ ![IMG_20231030_102628](https://github.com/Vamsieth/red-envelope/assets/121611896/f98bd88b-f717-4c56-8a88-134aca68e12c)
+
+
 </p>
-<h1 align="center" >Lifafa : Redifining Gifting </h1>
+<h1 align="center" >Red Envelope : Redifining Gifting </h1>
 
   
 </p>
-Lifafa, your gateway to modern gifting, revolutionizes the age-old tradition of giving with its innovative digital red envelope platform. By seamlessly blending tradition with technology, Lifafa allows users to create, share, and experience the joy of giving in the digital age. With Lifafa, you can personalize your gifts, add an element of surprise, and enhance the entire gifting experience by incorporating various digital assets, all in one secure and user-friendly platform
+Red Envelope, your gateway to modern gifting, revolutionizes the age-old tradition of giving with its innovative digital red envelope platform. By seamlessly blending tradition with technology, Red envelope allows users to create, share, and experience the joy of giving in the digital age. With Red envelope, you can personalize your gifts, add an element of surprise, and enhance the entire gifting experience by incorporating various digital assets, all in one secure and user-friendly platform
 <br>
 
 ## ✨ Features
@@ -52,7 +53,7 @@ Additional Gifting Features: Lifafa may include additional features such as virt
 <img src="./img/4.jpeg">
 <img src="./img/5.gif">
 
-## ✅ How Lifafa Works
+## ✅ How Red Envelope Works
 
 Lifafa, our innovative digital red envelope platform, introduces an engaging and seamless process for digital gifting. It commences with the sender depositing a specified total value of digital assets, which can encompass cryptocurrencies, NFTs, and an array of digital assets, forming the foundation of a dynamic gift pool. Adding a personal touch to the gifting experience, the sender customizes the gift by specifying its purpose, and Lifafa generates a unique link associated with the gift pool, ensuring each gift is distinct and memorable. The sender shares this unique link with the intended recipients, granting them access to the gift pool, which may be further secured through the optional use of a non-fungible token (NFT) to add an extra layer of security and exclusivity. Recipients, upon receiving the unique link, are drawn into the immersive Lifafa platform, unveiling a world of digital surprises. The heart of the experience lies in the revelation of randomized prizes within the gift pool, injecting an element of unpredictability and excitement, enhancing the joy of gifting. The process for recipients to claim their prizes is streamlined through the Lifafa platform, featuring a user-friendly "claim" button for a hassle-free experience. Moreover, Lifafa fosters a spirit of generosity as recipients have the choice to contribute additional digital assets to the gift pool, amplifying the overall value of the gift and enabling a ripple effect of generosity as the gift continues to circulate among others. This combination of customization, security, engagement, and surprise ensures Lifafa is at the forefront of modern digital gifting, revitalizing the tradition of gift-giving in the digital age.
 
