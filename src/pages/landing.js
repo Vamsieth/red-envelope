@@ -19,7 +19,7 @@ const LandingPage = () => {
                 <div className="h-full flex gap-8 flex-col justify-center text-[Montserrat] order-2">
                     <div className="">
                         <h1 data-aos="fade-down" className="text-[#f8b782] uppercase text-5xl font-[Oswald] leading-normal tracking-widest">Create your Red <br /> Envelope</h1>
-                        <p data-aos="fade-down" data-aos-delay={100} className="text-[#FF8A00] my-6">Red Enve, your gateway to modern gifting, revolutionizes the age-old tradition of giving with its innovative digital red envelope platform. By seamlessly blending tradition with technology</p>
+                        <p data-aos="fade-down" data-aos-delay={100} className="text-[#FF8A00] my-6">Red Envelope, your gateway to modern gifting, revolutionizes the age-old tradition of giving with its innovative digital red envelope platform. By seamlessly blending tradition with technology</p>
                     </div>
                     <div>
                         <Link to={'/create-link'}>
