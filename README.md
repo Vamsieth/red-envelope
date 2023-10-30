@@ -68,4 +68,4 @@ Developers and emergency services professionals who are interested in enhancing 
 <br>
 
 ## ©️ License
-Red Envelope is licensed under the MPL-2.0 License. See <a href="LICENSE.txt">LICENSE</>
+Red Envelope is licensed under the MPL-2.0 License. See <a href="LICENSE.txt">LICENSE</a>
